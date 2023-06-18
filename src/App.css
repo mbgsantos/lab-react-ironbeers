@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.BeerCards {
+  width: 22rem;
+}
+
+.Navigator {
+  background-color:  #61dafb;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
